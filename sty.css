@@ -51,7 +51,7 @@ body{
     color: #00ced1;
 }
 .head span{
-    color: yellow;
+    color: orange;
 }
 .pro{
     text-align: center;
@@ -62,7 +62,7 @@ body{
     color: #00ced1;
 }
 .pro span{
-    color: yellow;
+    color: orange;
 }
 header{
     position:fixed;
@@ -145,7 +145,7 @@ header .nv ul li a:hover{
     padding: 0. 5rem;
 }
 table,th,td{
-    border: 1px solid yellow;
+    border: 1px solid orange;
     border-collapse: collapse;
 }
 td{
@@ -186,7 +186,7 @@ table{
 
 .Project .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: orange;
     padding: 1rem 0;
     font-weight: normal;
 }
